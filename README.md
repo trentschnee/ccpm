@@ -218,6 +218,8 @@ Specialized agents implement tasks while maintaining progress updates and an aud
 - `/pm:epic-close` - Mark epic as complete
 - `/pm:epic-edit` - Edit epic details
 - `/pm:epic-refresh` - Update epic progress from tasks
+- `/pm:epic-start` - Launch parallel agents to work on epic tasks in a shared branch 
+- `/pm:epic-start-worktree` = Launch parallel agents to work on epic tasks in a shared worktree
 
 ### Issue Commands
 - `/pm:issue-show` - Display issue and sub-issues
